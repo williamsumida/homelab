@@ -9,7 +9,7 @@
     "test:debug": "node --experimental-vm-modules --inspect-brk node_modules/.bin/jest --runInBand --watchAll test/"
   },
   "keywords": [],
-  "author": "erickwendel",
+  "author": "williamsumida",
   "license": "ISC",
   "type": "module",
   "engines": {
